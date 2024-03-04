@@ -1,4 +1,4 @@
-# Ejercicios 1 y 2 del analizador sintactico
+# analizador sintactico con objetos
 ## Nombre: Juan Pablo Mayagoitia Franco       Código: 217539159
 
 ## Arbol de la pila
