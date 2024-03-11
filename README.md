@@ -58,3 +58,8 @@
 #### ejemplo de la implementacion del arbol de la pila
 
 ![resultado arbol](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/69b05afb-50bd-4740-9ae8-372803881878)
+
+## Analizador sintactico con gramatica completa
+### Salida del analizador sintactico con gramatica completa
+
+![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/1d6bfcf6-183b-4f3e-b672-628feb3ab4b2)
