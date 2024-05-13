@@ -71,3 +71,12 @@
 
 ### arbol que genera
 ![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/93dde53f-d101-4563-8ff9-f08c84782d28)
+
+## Etapa final analizador semantico
+### codigo a revisar
+![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/b0fe1927-1605-4e61-82ae-87ce4e441259)
+
+### al analizar el codigo anterior nos damos cuenta que x y z estan definidos como int, pero después notamos que las variables ahora valen como flotantes eso es un error entonces se analiza y se notan estos errores de sintaxis
+![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/78e44fc2-51d7-4aad-a330-205740a7c4e2)
+
+
