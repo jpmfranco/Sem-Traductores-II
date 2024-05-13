@@ -95,3 +95,11 @@
 
 
 ## Etapa Final Generacion de codigo
+
+### codigo
+![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/2cee1631-5898-484b-9a17-cde937c11f1d)
+
+### codigo generado en ensamblador
+![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/223e1631-579a-4f46-98a6-99a4a202b5f9)
+
+
