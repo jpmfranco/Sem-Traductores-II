@@ -85,6 +85,8 @@
 
 ### resultado
 ![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/4f8514e4-074d-412e-a5a5-08b70c36e6c4)
+![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/e019f3fc-0474-46ae-b5cc-c52377950cc9)
+
 
 ### ejemplo 2 del classroom analizado
 ### codigo 
