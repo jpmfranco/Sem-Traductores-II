@@ -59,7 +59,37 @@
 
 ![resultado arbol](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/69b05afb-50bd-4740-9ae8-372803881878)
 
-## Analizador sintactico con gramatica completa
-### Salida del analizador sintactico con gramatica completa
+## Sintactico con generacion de codigo (ejemplo)
+### int hola;
+![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/11e53aa7-c345-4c15-b1bd-37e57987c7cf)
 
-![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/1d6bfcf6-183b-4f3e-b672-628feb3ab4b2)
+## Etapa final analizador sintactico
+### tabla analizador sintactico
+![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/86b1d4ed-d1b9-4026-8b78-8d3e70128b77)
+![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/421047ee-2c6f-4164-b877-750875dda1a5)
+![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/a7ca3bfb-afc1-42a7-9403-5f4178ff0661)
+
+### arbol que genera
+![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/93dde53f-d101-4563-8ff9-f08c84782d28)
+
+## Etapa final analizador semantico
+### codigo a revisar
+![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/b0fe1927-1605-4e61-82ae-87ce4e441259)
+
+### al analizar el codigo anterior nos damos cuenta que x y z estan definidos como int, pero después notamos que las variables ahora valen como flotantes eso es un error entonces se analiza y se notan estos errores de sintaxis
+![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/78e44fc2-51d7-4aad-a330-205740a7c4e2)
+
+### ejemplo 1 del classroom analizado
+### codigo
+![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/fc269198-f9e3-41a6-ad3b-ea7a16567210)
+
+### resultado
+![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/4f8514e4-074d-412e-a5a5-08b70c36e6c4)
+
+### ejemplo 2 del classroom analizado
+### codigo 
+![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/cd2f8206-211d-4b0b-b548-e39d4e9136f4)
+
+### resultado
+![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/06011d3e-6e97-4070-b7ba-631d2340864d)
+
