@@ -93,6 +93,8 @@
 ### resultado
 ![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/06011d3e-6e97-4070-b7ba-631d2340864d)
 
+### codigo que compila bien en el semantico
+![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/fa23dc38-977f-4823-9354-e636be8e80fd)
 
 ## Etapa Final Generacion de codigo
 
