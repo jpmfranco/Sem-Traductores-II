@@ -63,9 +63,3 @@
 ### int hola;
 ![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/11e53aa7-c345-4c15-b1bd-37e57987c7cf)
 
-
-
-## analizador sintactico con gramatica completa
-### Ejemplo de salida del analizador sintactico con gramatica completa
-
-![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/1d6bfcf6-183b-4f3e-b672-628feb3ab4b2)
