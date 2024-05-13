@@ -79,4 +79,17 @@
 ### al analizar el codigo anterior nos damos cuenta que x y z estan definidos como int, pero después notamos que las variables ahora valen como flotantes eso es un error entonces se analiza y se notan estos errores de sintaxis
 ![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/78e44fc2-51d7-4aad-a330-205740a7c4e2)
 
+### ejemplo 1 del classroom analizado
+### codigo
+![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/fc269198-f9e3-41a6-ad3b-ea7a16567210)
+
+### resultado
+![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/4f8514e4-074d-412e-a5a5-08b70c36e6c4)
+
+### ejemplo 2 del classroom analizado
+### codigo 
+![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/cd2f8206-211d-4b0b-b548-e39d4e9136f4)
+
+### resultado
+![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/06011d3e-6e97-4070-b7ba-631d2340864d)
 
