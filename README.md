@@ -85,15 +85,20 @@
 
 ### resultado
 ![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/4f8514e4-074d-412e-a5a5-08b70c36e6c4)
+![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/0bb37629-a29b-414f-a61a-cf78b9ff6391)
+
 
 ### ejemplo 2 del classroom analizado
 ### codigo 
 ![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/cd2f8206-211d-4b0b-b548-e39d4e9136f4)
 
-### codigo que compila bien en el semantico
-![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/fa23dc38-977f-4823-9354-e636be8e80fd)
-
-
 ### resultado
 ![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/06011d3e-6e97-4070-b7ba-631d2340864d)
+
+### codigo que compila bien en el semantico
+### codigo
+![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/f3db8b28-4420-404d-836e-767325457578)
+
+### resultado
+![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/fa23dc38-977f-4823-9354-e636be8e80fd)
 
