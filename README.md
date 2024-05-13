@@ -59,7 +59,15 @@
 
 ![resultado arbol](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/69b05afb-50bd-4740-9ae8-372803881878)
 
-## Analizador sintactico con gramatica completa
-### Salida del analizador sintactico con gramatica completa
+## Sintactico con generacion de codigo (ejemplo)
+### int hola;
+![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/11e53aa7-c345-4c15-b1bd-37e57987c7cf)
 
-![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/1d6bfcf6-183b-4f3e-b672-628feb3ab4b2)
+## Etapa final analizador sintactico
+### tabla analizador sintactico
+![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/86b1d4ed-d1b9-4026-8b78-8d3e70128b77)
+![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/421047ee-2c6f-4164-b877-750875dda1a5)
+![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/a7ca3bfb-afc1-42a7-9403-5f4178ff0661)
+
+### arbol que genera
+![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/93dde53f-d101-4563-8ff9-f08c84782d28)
