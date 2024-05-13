@@ -93,5 +93,19 @@
 ### resultado
 ![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/06011d3e-6e97-4070-b7ba-631d2340864d)
 
+### codigo que compila bien en el semantico
+### codigo
+![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/f3db8b28-4420-404d-836e-767325457578)
+
+### resultados
+![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/fa23dc38-977f-4823-9354-e636be8e80fd)
 
 ## Etapa Final Generacion de codigo
+
+### codigo
+![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/2cee1631-5898-484b-9a17-cde937c11f1d)
+
+### codigo generado en ensamblador
+![image](https://github.com/jpmfranco/Sem-Traductores-II/assets/103715117/223e1631-579a-4f46-98a6-99a4a202b5f9)
+
+
